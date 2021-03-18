@@ -5,7 +5,7 @@ Good day! I am Hearim Moon who is attending department of Computer Science and E
 If you want to contact me, please leave me a message! 📩
 
 
-![moo-nerim's github stats](https://github-readme-stats.vercel.app/api?username=moo-nerim&show_icons=true)
+![moo-nerim's github stats](https://github-readme-stats.vercel.app/api?moo-nerim=anuraghazra&show_icons=true&theme=merko)
 <!--
 **moo-nerim/moo-nerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
