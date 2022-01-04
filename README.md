@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF00B5&size=40&center=true&vCenter=true&lines=Hi+there%F0%9F%91%8B;I'm+HEARIM!%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Blog+%3A+https%3A%2F%2Fmoo-nerim.tistory.com)](https://git.io/typing-svg)
 
 Good day! I am Hearim Moon who is attending department of Computer Science and Engineering student at the Chungnam University. 
 
