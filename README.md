@@ -4,7 +4,7 @@ Good day! I am a student interested in **Android App development**.
 Email me anytime if you want to contact me!
 - 🌱 learning : Android Studio, Machine Learning
 - 📩 contact me : hearim.mooon@gmail.com
-
+- <img src="https://user-images.githubusercontent.com/59702552/149706958-1a0124f2-9c3c-4e4e-ab92-9b649bee9635.png" width="20" height="20" style="margin-top: 30px;"/> My Blog : https://moo-nerim.tistory.com/
 ## Experience
 
 |         Type          |       Date        | Contents                                  |  Organization   |
