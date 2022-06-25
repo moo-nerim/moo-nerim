@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF00B5&size=40&vCenter=true&width=900&lines=Hi+there%F0%9F%91%8B;I'm+HEARIM!%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+becoming+to+Android+developer%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF00B5&size=40&vCenter=true&width=900&lines=Hi+there%F0%9F%91%8B;I'm+HEARIM!%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+becoming+to+AI+developer%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 Good day! I am a student interested in **Android App development**. 
 Email me anytime if you want to contact me!
@@ -9,8 +9,11 @@ Email me anytime if you want to contact me!
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+| 🏫 Education | 2022.06 ~ 2022.08 | SmartFactory Internship |  LG CNS |
+| 🏆 Prize | 2022.06.24 | 2022 CNU SW·AI Project Fair 창의작품경진대회 우수상 |  Chungnam National University  |
+|   👩🏻‍💻 Internal activities      | 2022.03 ~ 2022.06 | Computer Programming Tutor (JAVA)                    |  Chungnam National University  |
 | 🏫 Education | 2021.12 ~ 2022.03 | Global AI·SW Program |  Purdue University  |
-|   👩🏻‍💻 Internal activities      | 2021.09 ~ 2021.12 | Object oriented design Tutor                    |  Chungnam National University  |
+|   👩🏻‍💻 Internal activities      | 2021.09 ~ 2021.12 | Object oriented design Tutor (C++)                    |  Chungnam National University  |
 |      🏫 Education      | 2021.08 ~ 2021.11 | Machine Learning Bootcamp                   |  Google  |
 | 👩🏻‍💻 External activities      | 2021.03 ~ 2021.11 | Competition Award |   한국정보산업연합회    |
 | 🚶🏻Part time job             | 2020.08 ~ 2021.01 | Data labeling                              |    Datamaker   |
