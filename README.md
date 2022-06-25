@@ -9,7 +9,6 @@ Email me anytime if you want to contact me!
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
-| 🏫 Education | 2022.06 ~ 2022.08 | SmartFactory Internship |  LG CNS |
 | 🏆 Prize | 2022.06.24 | 2022 CNU SW·AI Project Fair 창의작품경진대회 우수상 |  Chungnam National University  |
 |   👩🏻‍💻 Internal activities      | 2022.03 ~ 2022.06 | Computer Programming Tutor (JAVA)                    |  Chungnam National University  |
 | 🏫 Education | 2021.12 ~ 2022.03 | Global AI·SW Program |  Purdue University  |
