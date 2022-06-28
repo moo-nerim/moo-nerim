@@ -14,7 +14,7 @@ Email me anytime if you want to contact me!
 | 🏫 Education | 2021.12 ~ 2022.03 | Global AI·SW Program |  Purdue University  |
 |   👩🏻‍💻 Internal activities      | 2021.09 ~ 2021.12 | Object oriented design Tutor (C++)                    |  Chungnam National University  |
 |      🏫 Education      | 2021.08 ~ 2021.11 | Machine Learning Bootcamp                   |  Google  |
-| 👩🏻‍💻 External activities      | 2021.03 ~ 2021.11 | Competition Award |   한국정보산업연합회    |
+| 👩🏻‍💻 External activities      | 2021.03 ~ 2021.11 | ICT 공모전 수상 |   한국정보산업연합회    |
 | 🚶🏻Part time job             | 2020.08 ~ 2021.01 | Data labeling                              |    Datamaker   |
 |      🏫 Education      | 2019.03 ~         | Computer Science and Engineering            | Chungnam National University |
 
