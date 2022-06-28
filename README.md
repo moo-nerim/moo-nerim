@@ -20,13 +20,18 @@ Email me anytime if you want to contact me!
 
 ## Tech
 <div style="display: flex;">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="JAVA" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="Android" width="50" height="50"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 70px; margin-bottom: 50px;" />
+
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow" width="50" height="50"/>
+
 </div>
 
 <!-- 
