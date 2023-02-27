@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF00B5&size=40&vCenter=true&width=900&lines=Hi+there%F0%9F%91%8B;I'm+HEARIM!%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Good day! I am a student interested in **Android App development**. 
+Good day! Hi, I'm **HEARIM MOON**
 Email me anytime if you want to contact me!
-- 🌱 learning : DataBase, C#, Machine Learning
+<!-- - 🌱 learning : DataBase, C#, Machine Learning -->
 - 📩 contact me : ansgpfla7@naver.com
 - <img src="https://user-images.githubusercontent.com/59702552/149706958-1a0124f2-9c3c-4e4e-ab92-9b649bee9635.png" width="20" height="20" style="margin-top: 30px;"/> My Blog : https://moo-nerim.tistory.com/
-## Experience 
+<!-- ## Experience 
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
@@ -21,7 +21,7 @@ Email me anytime if you want to contact me!
 |      🏫 Education      | 2021.08 ~ 2021.11 | Machine Learning Bootcamp                   |  Google  |
 | 👩🏻‍💻 External activities      | 2021.03 ~ 2021.11 | ICT 공모전 수상 |   한국정보산업연합회    |
 | 🚶🏻Part time job             | 2020.08 ~ 2021.01 | Data labeling                              |    Datamaker   |
-|      🏫 Education      | 2019.03 ~ 2023.02        | Computer Science and Engineering            | Chungnam National University |
+|      🏫 Education      | 2019.03 ~ 2023.02        | Computer Science and Engineering            | Chungnam National University | -->
 
 ## Tech
 <div style="display: flex;">
